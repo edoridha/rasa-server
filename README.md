@@ -5,6 +5,10 @@
 ```sh
 npm install
 ```
+```sh
+go to directory /config/config.json
+adjust development configuration
+```
 
 ```sh
 npx sequelize-cli db:create
