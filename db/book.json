@@ -1,0 +1,38 @@
+[
+    {
+       "title": "Percakapan Politik",
+       "author": "A. Sudiarja",
+       "sectionId": 2,
+       "stock": 2
+    },
+    {
+        "title": "Negara dan Politik Kesejahteraan",
+        "author": "A. Muhaimin Iskandar",
+        "sectionId": 2,
+        "stock": 4
+     },
+     {
+        "title": "Mengadvokasi Hak Sipil Politik",
+        "author": "Hendardi",
+        "sectionId": 2,
+        "stock": 2
+     },
+     {
+        "title": "Sejarah Dunia Yang Disembunyikan",
+        "author": "Jonathan Black",
+        "sectionId": 1,
+        "stock": 2
+     },
+     {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K Rowling",
+        "sectionId": 3,
+        "stock": 3
+     },
+     {
+        "title": "5cm",
+        "author": "Donny Dhirgantoro ",
+        "sectionId": 3,
+        "stock": 5
+     }
+]
